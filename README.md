@@ -11,7 +11,7 @@ Ovaj program prima početno i završno stanje parkinga te koristi algoritam pret
 1. **Klonirajte repozitorij:**
 
    ```
-   git clone 
+   git clone https://github.com/EsmaAlicic/ParkingLotRearrangement.git
    ```
 
 2. **Pokrenite program:**
